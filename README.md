@@ -17,18 +17,17 @@ Welcome to my digital workspace! I’m passionate about turning ideas into intel
 
 ## 💻 Featured Projects  
 
-### 🧩 [Fullstack AI Interview Assistant](https://github.com/Webdesigner4everyone002)
-> A smart interview simulation platform built with **React, Node.js**, and **LLMs**, featuring adaptive questions, AI scoring, and real-time candidate analytics.
-
-### 🩺 [Medical Report Insight Engine (OCR + LLM + JSON)]()
-> Extracts data from scanned medical reports using **Tesseract OCR + OpenCV**, and converts insights into structured **JSON** format using **LLMs** via Streamlit UI.
-
 ### 🤖 [Fullstack Agentic Placement-Prep Chatbot](https://github.com/Webdesigner4everyone002)
 > An **AI-driven chatbot** powered by **FastAPI** and **Gemma-2 (2B)** for personalized placement prep and technical Q&A through RAG pipelines.
 
 ### 🔍 [Deepfake Detection using Deep Learning]()
 > Built with **TensorFlow/Keras** and **OpenCV**, this project detects manipulated content using CNN models on large datasets.
 
+### 🩺 [Medical Report Insight Engine (OCR + LLM + JSON)]()
+> Extracts data from scanned medical reports using **Tesseract OCR + OpenCV**, and converts insights into structured **JSON** format using **LLMs** via Streamlit UI.
+
+### 🧩 [Fullstack AI Interview Assistant](https://github.com/Webdesigner4everyone002)
+> A smart interview simulation platform built with **React, Node.js**, and **LLMs**, featuring adaptive questions, AI scoring, and real-time candidate analytics.
 ---
 
 ## 🧰 Tech Stack
