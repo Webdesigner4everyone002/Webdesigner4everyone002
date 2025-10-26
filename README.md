@@ -23,13 +23,11 @@ Welcome to my digital workspace! I’m passionate about turning ideas into intel
 ### 🔍 [Deepfake Defender : AI Powered Real-time Verification]()
 > Built with **TensorFlow/Keras** and **OpenCV**, this project detects manipulated content using CNN models on large datasets.
 
-### 🩺 [Medical Report Insight Engine (OCR + LLM + JSON)]()
-> Extracts data from scanned medical reports using **Tesseract OCR + OpenCV**, and converts insights into structured **JSON** format using **LLMs** via Streamlit UI.
-
 ### 🧩 [Agentic Travel Planner (Langraph)]()
 > **LangGraph**-inspired AI Travel Planner that dynamically plans trips based on natural language input. The system integrates weather, points of interest (POIs), and itinerary generation using a **multi-agent architecture** powered by a large language model (Gemini API).
 
-
+### 🩺 [Medical Report Insight Engine (OCR + LLM + JSON)]()
+> Extracts data from scanned medical reports using **Tesseract OCR + OpenCV**, and converts insights into structured **JSON** format using **LLMs** via Streamlit UI.
 ---
 
 ## 🧰 Tech Stack
