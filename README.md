@@ -9,7 +9,7 @@ Welcome to my digital workspace! I’m passionate about turning ideas into intel
 ## 🧠 About Me  
 
 - 🎓 **B.Tech in Computer Science (AI & ML)** from *Malla Reddy University (2025)*  
-- 💼 Currently working as an **AI Intern at Tech Mahindra**, building an **AI Security Agent** using **LLMs (Gemma, Mistral)**, **LangChain**, **RAG pipelines**, and **Docker/Kubernetes**.  
+- 💼 Currently working as an **Technical Trainer** empowering professionals through technical training while engineering AI‑powered applications with LLMs, RAG, and modern full‑stack technologies. 
 - ⚙️ Experienced in designing **end-to-end applications** integrating **React.js**, **Node.js**, **Python**, **FastAPI**, and **LLM-powered AI components**.  
 - 💡 Constantly exploring the intersection of **AI research** and **software engineering** to develop practical, future-ready solutions.  
 
